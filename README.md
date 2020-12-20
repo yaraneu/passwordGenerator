@@ -18,8 +18,13 @@ Acceptance Criteria
 
 ## Resources
 
-https://www.youtube.com/watch?v=dNd5pEUCiAU&t=562s
-https://stackoverflow.com/questions/30520309/one-button-calls-two-different-functions-on-different-clicks
+* https://www.youtube.com/watch?v=dNd5pEUCiAU&t=562s
+* https://stackoverflow.com/questions/30520309/one-button-calls-two-different-functions-on-different-clicks
+* GitHub
+* GitLab
+* Visual Studio Code
+* Chrome Developer Tool
+
 
 
 - - -
